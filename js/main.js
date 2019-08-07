@@ -18,7 +18,7 @@
   });
 
   // Add gallery images
-  var ArrayPhotos = new Array(20)
+  var ArrayPhotos = new Array(125)
   var carouselLinks = []
   var linksContainer = $('#links')
   var baseUrl
